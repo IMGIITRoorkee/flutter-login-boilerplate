@@ -1,6 +1,6 @@
-# Placement
+# BoilerPlate Sign In
 
-The Official Placement mobile Application for Indian Institute of Technology Roorkee.
+A boilerplate signIn app
 
 ## Getting Started
 
