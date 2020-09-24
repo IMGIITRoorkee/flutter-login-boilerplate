@@ -187,7 +187,6 @@ class _SignInState extends State<SignIn> with TickerProviderStateMixin {
         ),
         SizedBox(height: _height*0.02,),
         Container(
-          width: _width*0.60,
           child: Center(
             child: Row(
               mainAxisSize: MainAxisSize.min,
